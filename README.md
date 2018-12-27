@@ -1,9 +1,9 @@
-Exceptional Realty Group Websire
+Exceptional Realty Group Website
 ---
 
 # Description
 
-This is an exmaple site for the intro to fornt end web devleopment course at The Flatiorn School 
+This is an example site for the intro to front end web development course at The Flatiron School
 
 # Contact
 
